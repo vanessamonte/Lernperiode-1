@@ -14,4 +14,6 @@ Vanessa Monteleone
 ## Feinplanung
 ### 22.08.2025
 ### 29.08.2025
-1. Ich möchte die Planung
+1. Ich möchte die Planung für die erste Lernperiode schreiben.
+2. Ich möchte die Hausaufgaben für M319 erledigen (Mission 5).
+3. Ich möchte die Hausaufgaben für M431 erledigen (bis 1706).
