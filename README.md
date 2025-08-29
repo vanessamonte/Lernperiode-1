@@ -11,7 +11,7 @@ Vanessa Monteleone
 2. Für die nächste Lernperiode will ich mir jetzt schon ein neues Projekt überlegen. (JavaSkript?)
 ### Generelle Ziele
 - Ich will mich in dieser Lernperiode auf die Module 431 und 319 fokussieren und jeweils an diesen weiterarbeiten.
-## Feinplanung
+## Fein-Planung
 ### 22.08.2025
 1. Ich möchte herausfinden, was QV ist und wie es berechnet wird.
 2. Ich möchte den Upload einer LB üben und verstehen, wieso es so viele Ordner braucht.
